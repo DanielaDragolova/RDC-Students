@@ -1,4 +1,4 @@
 # RDC-Students
 Excercise
  koi e tuk?
-Icho e tyk.
+1. Icho e tuk.
